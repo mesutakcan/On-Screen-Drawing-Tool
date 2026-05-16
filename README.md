@@ -3,12 +3,12 @@
 [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey_v2-green.svg)](https://www.autohotkey.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-GPL-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.8-brightgreen.svg)](https://github.com/akcansoft/On-Screen-Drawing-Tool/releases)
+[![Version](https://img.shields.io/badge/Version-1.8-brightgreen.svg)](https://github.com/mesutakcan/On-Screen-Drawing-Tool/releases)
 
-![GitHub stars](https://img.shields.io/github/stars/akcansoft/On-Screen-Drawing-Tool?style=social)
-![GitHub forks](https://img.shields.io/github/forks/akcansoft/On-Screen-Drawing-Tool?style=social)
-![GitHub issues](https://img.shields.io/github/issues/akcansoft/On-Screen-Drawing-Tool)
-[![Downloads](https://img.shields.io/github/downloads/akcansoft/On-Screen-Drawing-Tool/total)](https://github.com/akcansoft/On-Screen-Drawing-Tool/releases)
+![GitHub stars](https://img.shields.io/github/stars/mesutakcan/On-Screen-Drawing-Tool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mesutakcan/On-Screen-Drawing-Tool?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mesutakcan/On-Screen-Drawing-Tool)
+[![Downloads](https://img.shields.io/github/downloads/mesutakcan/On-Screen-Drawing-Tool/total)](https://github.com/mesutakcan/On-Screen-Drawing-Tool/releases)
 
 Lightweight on-screen annotation tool for Windows, built with AutoHotkey v2 and GDI+.
 
@@ -65,7 +65,7 @@ If you use the compiled `.exe`, **AutoHotkey installation** is not required.
 
 ### Option 2: Run compiled EXE
 
-1. Download the latest release `.exe` from the [Releases](https://github.com/akcansoft/On-Screen-Drawing-Tool/releases) page.
+1. Download the latest release `.exe` from the [Releases](https://github.com/mesutakcan/On-Screen-Drawing-Tool/releases) page.
 2. Optionally place `settings.ini` next to the `.exe` for custom settings.
 3. Run the executable.
 
@@ -348,7 +348,7 @@ app_icon.ico                    — Tray icon
 
 ## Contributing
 
-Issues and pull requests are welcome on [GitHub](https://github.com/akcansoft/On-Screen-Drawing-Tool).
+Issues and pull requests are welcome on [GitHub](https://github.com/mesutakcan/On-Screen-Drawing-Tool).
 
 When reporting a bug, please include:
 - Windows version
@@ -364,6 +364,6 @@ When reporting a bug, please include:
 
 **Mesut Akcan**
 
-- GitHub: [akcansoft](https://github.com/akcansoft)
+- GitHub: [mesutakcan](https://github.com/mesutakcan)
 - Blog: [mesutakcan.blogspot.com](https://mesutakcan.blogspot.com)
 - YouTube: [youtube.com/mesutakcan](https://www.youtube.com/mesutakcan)
